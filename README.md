@@ -1,1 +1,2 @@
 # Hand-Gesture-Using-Game-Controller-in-Hill-Climb-Racing
+Using OpenCV and Mediapipe for Hand Gesture Detection and pynput module in the screen is divided in such a way that the left hand of the screen is used for applying breaks, whereas right Hand of the screen is used for acceleration.(Hill Climb Racing using hand gestures. You don’t need any keyboard or mouse, just a webcam and Python code. This is a fun and easy way to control your car and perform stunts in the game.)
